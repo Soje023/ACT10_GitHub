@@ -4,6 +4,10 @@
 
 void main(){
 
-    printf("Hello World");
+    funcionalidadBasica();
 
+}
+
+void funcionalidadBasica(){
+    printf("Hello World");
 }
